@@ -1,0 +1,9 @@
+7,Gradient Boosting Classifier,93.04,83.05,82.38,82.87
+8,CatBoost,90.91,83.61,0.00,0.00
+6,Random Forest,88.66,80.92,80.32,81.07
+5,Decision Tree,84.74,79.35,78.86,79.52
+3,Linear SVC,84.06,82.94,81.93,82.32
+1,KNN,83.95,72.28,75.37,75.70
+0,Regressão Logística,83.73,83.16,81.91,82.17
+2,Gaussian Naive Bayes,81.14,79.01,78.53,79.17
+4,Stochastic Gradient Descent,79.57,74.52,74.99,75.47

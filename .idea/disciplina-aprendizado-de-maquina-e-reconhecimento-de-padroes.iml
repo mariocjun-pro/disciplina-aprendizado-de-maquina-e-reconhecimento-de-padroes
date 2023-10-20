@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Week 2 A Tour of Machine Learning Classifiers Using scikit-learn/ch03/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Week 3 Building Good Training Sets - Data Preprocessing/ch04/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Week 5 Python and Machine Learning Basics Assignment 1 Titanic/.ipynb_checkpoints" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
